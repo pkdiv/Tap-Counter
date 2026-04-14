@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Base Background -->
+    <color name="screen_background">#C4B3B3</color>
+
+    <!-- Text Colors (High Contrast) -->
+    <color name="text_primary">#261E1E</color>
+    <color name="text_secondary">#544646</color>
+
+    <!-- Primary Branding (Buttons like Add/Reset) -->
+    <color name="color_primary">#3E3232</color>
+    <color name="color_on_primary">#FFFFFF</color>
+
+    <!-- Secondary/Tonal (Buttons like Subtract/Apply) -->
+    <color name="color_secondary">#8E7F7F</color>
+    <color name="color_on_secondary">#FFFFFF</color>
+</resources>

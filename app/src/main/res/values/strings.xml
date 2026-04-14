@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Tap Counter</string>
+    <string name="title">Tap Counter</string>
+    <string name="instructions">Tap the back of your phone while this app is open to change the count.</string>
+    <string name="count_label">Current Count</string>
+    <string name="sensor_ready">Back tap detection is on while this screen is open.</string>
+    <string name="sensor_missing">No accelerometer was found on this phone.</string>
+    <string name="reset">Reset</string>
+    <string name="subtract">-1</string>
+    <string name="add">+1</string>
+    <string name="count_up">Count Up</string>
+    <string name="count_down">Count Down</string>
+    <string name="set_count_hint">Set Starting Count</string>
+    <string name="apply">Apply</string>
+</resources>
